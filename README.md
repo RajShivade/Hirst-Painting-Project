@@ -13,45 +13,45 @@ To enhance programming skills in loops, conditional statements, and functions wi
 
 # Features:
 
-- Color Extraction:
+- # Color Extraction:
 
 Uses the colorgram library to extract RGB values from an image, ensuring the dots' colors are varied and visually appealing.
 
-- Grid Layout:
+- # Grid Layout:
 
 Implements a systematic grid layout for positioning the dots, ensuring even spacing and alignment.
 
-- Random Color Selection:
+- # Random Color Selection:
 
 Randomly selects colors from the extracted palette for each dot, providing a randomized yet aesthetically pleasing pattern.
 
-- User Interaction:
+- # User Interaction:
 
 The program keeps the graphical window open until a user clicks to close it, allowing for an extended viewing experience.
 
 # Workflow:
 
-- Setup:
+- # Setup:
 
 Import necessary libraries (turtle and random).
 Configure the turtle module for RGB color mode and create a Turtle object for drawing.
 
-- Color List Definition:
+- # Color List Definition:
 
 Define a list of RGB tuples extracted from an image using the colorgram library. This list represents the color palette used for the dots.
 
-- Positioning:
+- # Positioning:
 
 Set the initial position of the turtle to start drawing the grid from the bottom left corner of the screen.
 
-- Drawing the Dots:
+- # Drawing the Dots:
 
 Loop through a specified number of iterations to draw dots.
 For each iteration, randomly select a color from the color list and draw a dot.
 Move the turtle forward to position for the next dot.
 After completing a row, reposition the turtle to start a new row.
 
-- Display:
+- # Display:
 
 Keep the graphical window open until the user clicks to close it.
 
