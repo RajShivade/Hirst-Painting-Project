@@ -1,4 +1,4 @@
-# Hirst Painting Project:
+# Hirst Painting Project :-
 
 # Project Description:
 
@@ -29,7 +29,7 @@ Randomly selects colors from the extracted palette for each dot, providing a ran
 
 The program keeps the graphical window open until a user clicks to close it, allowing for an extended viewing experience.
 
-# Workflow
+# Workflow:
 
 - Setup:
 
