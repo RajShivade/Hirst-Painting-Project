@@ -104,10 +104,4 @@ color_list = [(230, 222, 218), (231, 224, 228), (223, 221, 228), (218, 173, 125)
 The Hirst Painting Project provides a fun and creative way to explore Python's graphical capabilities using the turtle module. By replicating Damien Hirst's spot paintings, the project combines artistic expression with programming, offering an engaging learning experience for Python enthusiasts.
 
 # Output:
-
-<h1 align="center">
-   <a href="https://google.com">
-    <img src="./output.png">
-   
-    
-</h1>
+![output](https://github.com/user-attachments/assets/c33824a1-012a-43c1-ad28-8f5b665231d3)
